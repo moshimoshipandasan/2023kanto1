@@ -21,4 +21,5 @@
    - Google Colabの使い方に関する手順：
      - Googleのアカウントを持っていることを確認します。
      - Google Colabのウェブサイト（https://colab.research.google.com/）にアクセスします。
+   - [webアプリ](https://colab.research.google.com/drive/1zlo4U4SfB6KYQLoOP4hEUdPS8DxIXMv_?usp=sharing)
 
